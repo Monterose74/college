@@ -1,0 +1,32 @@
+VT link https://www.virustotal.com/gui/file/a4aca383a89ab6ea29031c36765fa901e98f39e5d9e34b198c184e6eab801803
+MD5	aa190563a2e221fbdc576917704768d3
+SHA-1	3b0276283b11eb846586d7cbd137e4ce165ccccb
+SHA-256	a4aca383a89ab6ea29031c36765fa901e98f39e5d9e34b198c184e6eab801803
+Vhash	065056656d555560a2z13z2drz100231b5z
+Authentihash	0322d2a5271e99fa04648fae6027ecda52b082672b8cd844d6043200b96a14d8
+Imphash	edd83792ee0287abacb373007c5743b4
+Rich PE header hash	679d15a298725117c62085ac95d02abd
+SSDEEP	12288:jt9w+ReZW7cn38n38PYHzFWFreAvyVEqCZN0MeqBL51WPgNOiLj3OmM:vRR838nMO2qCLZBvWPwj3OmM
+TLSH	T172E49D56BE9114A3E0C231F591BF93361D3691189321EBD3C39229B998613E06B3F7ED
+File type	Win32 EXE 
+executable
+windows
+win32
+pe
+peexe
+Magic	
+PE32 executable (GUI) Intel 80386 Mono/.Net assembly, for MS Windows
+
+DetectItEasy	PE32   Library: .NET (v4.0.30319)   Compiler: Microsoft Visual C/C++ (19.29.30153) [C++]   Library: .NET (v4.0.30319)   Linker: Microsoft Linker (14.29.30153)   Tool: Visual Studio (2019 version 16.11)
+File size	679.50 KB (695808 bytes)
+
+Creation Time	
+2023-12-25 17:31:53 UTC
+First Submission	
+2023-12-25 17:33:24 UTC
+Last Submission	
+2023-12-25 17:33:24 UTC
+Last Analysis	
+2023-12-25 17:43:00 UTC
+
+  
